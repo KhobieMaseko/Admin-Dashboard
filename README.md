@@ -30,3 +30,4 @@ You don’t have to make a pixel perfect match with the design example.
 
 Consider this an opportunity to practice your CSS skills with your own designs.
 Don’t forget to push your finished dashboard to GitHub. Use GitHub Pages to publish it to the world!
+![dashboard](https://github.com/user-attachments/assets/b941348b-bd79-4919-855d-885d33eff402)
